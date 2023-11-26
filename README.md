@@ -51,6 +51,6 @@ Sigue las instrucciones para restablecer tu contraseña a través del enlace env
 ## ¿Cómo se ejecuta la aplicación?
 1. Clona el repositorio: https://github.com/kevin-martineze/frontendTasks/tree/master
 2. Instala las dependencias del Frontend:
-cd frontend
-npm install
+- cd frontend
+- npm install
 3. ejecuta el frontend con npm run dev para desarrollo
