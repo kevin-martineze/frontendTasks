@@ -73,7 +73,7 @@ const Login = () => {
             placeholder="Ingrese Correo electronico"
             className="w-full mt-3 p-3 border rounded-xl bg-gray-50"
             value={email}
-            onChange={(e) => setEmail(e.target.value)}
+            onChange={(e) => setEmail(e.target.value.toLowerCase())}
           />
         </div>
         <div className="my-5">

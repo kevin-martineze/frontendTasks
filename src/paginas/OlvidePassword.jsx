@@ -63,7 +63,7 @@ const OlvidePassword = () => {
             placeholder="Ingrese su correo electronico"
             className="w-full mt-3 p-3 border rounded-xl bg-gray-50"
             value={email}
-            onChange={(e) => setEmail(e.target.value.toLowerCase)}
+            onChange={(e) => setEmail(e.target.value.toLowerCase())}
           />
         </div>
 
