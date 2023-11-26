@@ -21,24 +21,29 @@ Recibirás un correo electrónico con un enlace de verificación. Haz clic en el
 Revisa tu bandeja en [correo no deseado]
 
 ![Confirmacion de Cuenta](https://github.com/kevin-martineze/frontendTasks/blob/master/imgREADME/confirmacioncorreo.PNG)
-3. Iniciar Sesión
+2. Iniciar Sesión
 Después de verificar tu cuenta, inicia sesión con tus credenciales.
 ![Inicio](https://github.com/kevin-martineze/frontendTasks/blob/master/imgREADME/pagina%20de%20inicio.PNG)
-4. Crear un Proyecto
+
+3. Crear un Proyecto
 En el panel principal, selecciona "Crear Proyecto".
 Ingresa los detalles del proyecto, como nombre y descripción.
-5. Añadir Tareas al Proyecto
+
+4. Añadir Tareas al Proyecto
 Una vez creado el proyecto, haz clic en él.
 Selecciona "Añadir Tarea" e ingresa los detalles de la tarea.
 Puedes editar, confirmar como realizada o eliminar tareas según sea necesario.
-6. Colaborar en Proyectos
+
+5. Colaborar en Proyectos
 Dentro del proyecto, encuentra la opción "Añadir Colaborador".
 Ingresa la dirección de correo electrónico del colaborador y envía una invitación.
 Los colaboradores recibirán una invitación y podrán unirse al proyecto después de aceptarla.
-7. Editar o Eliminar Proyectos
+
+6. Editar o Eliminar Proyectos
 Desde el panel principal, selecciona el proyecto que deseas editar o eliminar.
 Utiliza las opciones correspondientes para realizar cambios en el proyecto.
-8. Restablecer Contraseña
+
+7. Restablecer Contraseña
 En caso de olvidar tu contraseña, utiliza la opción "¿Olvidaste tu contraseña?" en la pantalla de inicio de sesión.
 Sigue las instrucciones para restablecer tu contraseña a través del enlace enviado por correo electrónico.
 ¡Listo! Ahora estás listo para aprovechar al máximo TasksPangea y gestionar tus proyectos de manera eficiente.
