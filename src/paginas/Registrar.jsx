@@ -113,7 +113,7 @@ const Registrar = () => {
             placeholder="Ingrese su correo electronico"
             className="w-full mt-3 p-3 border rounded-xl bg-gray-50"
             value={email}
-            onChange={(e) => setEmail(e.target.value)}
+            onChange={(e) => setEmail(e.target.value.toLowerCase)}
           />
         </div>
         <div className="my-5">
@@ -169,7 +169,7 @@ const Registrar = () => {
           className="block text-center my-5 text-slate-500 uppercase text-sm"
           to="/olvide-password"
         >
-          Olvide Mi Password
+          Olvide Contraseña
         </Link>
       </nav>
     </>
