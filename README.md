@@ -54,3 +54,5 @@ Sigue las instrucciones para restablecer tu contraseña a través del enlace env
 - cd frontend
 - npm install
 3. ejecuta el frontend con npm run dev para desarrollo
+
+  Video: https://drive.google.com/drive/u/0/folders/1aBqQ8fK-RrI8D8s85ZIz_2qov1HgqKAF
